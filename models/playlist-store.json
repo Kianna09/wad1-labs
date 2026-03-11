@@ -18,11 +18,6 @@
           "id": "06",
           "title": "Piano Sonata No. 10",
           "artist": "Beethoven"
-        },
-        {
-          "id": "0d3731a3-89a6-4490-9862-0f9994a3a90d",
-          "title": "Piano Sonata no. 12",
-          "artist": "Beethoven"
         }
       ]
     },
@@ -50,11 +45,6 @@
     {
       "id": "03",
       "title": "Beethoven Unfinished Symphonies",
-      "songs": []
-    },
-    {
-      "id": "d0258027-c4a3-46e6-abd1-fd1ef5381135",
-      "title": "Beethoven",
       "songs": []
     }
   ]
