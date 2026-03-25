@@ -51,17 +51,11 @@
       "songs": []
     },
     {
-      "id": "d5936674-5312-4b83-b751-03c27dd97835",
-      "title": "New Playlist",
-      "date": "2026-03-18T15:31:37.591Z",
-      "rating": 5,
-      "songs": [
-        {
-          "id": "f7aea455-b8db-49e9-894a-b21504303476",
-          "title": "Song",
-          "artist": "Beethoven"
-        }
-      ]
+      "id": "04ac1b58-f9f5-4380-8f64-01aa06ecd6a5",
+      "title": "Beethoven Symphonies",
+      "date": "2026-03-25T16:08:05.498Z",
+      "rating": 3,
+      "songs": []
     }
   ]
 }
