@@ -34,6 +34,17 @@
       "email": "mary.lyng@setu.ie",
       "password": "Trustno1",
       "id": "f96227fe-de7c-473c-8cdc-09f22d02a0b3"
+    },
+    {
+      "firstName": "Polly",
+      "lastName": "Parrot",
+      "email": "polly@parrot.com",
+      "password": "cracker",
+      "id": "13d3330f-4d1a-41a4-b67e-e214062cc1de",
+      "picture": {
+        "url": "http://res.cloudinary.com/dhmvri30w/image/upload/v1776872760/ey1frcqctbpcqnj6ehgg.png",
+        "public_id": "ey1frcqctbpcqnj6ehgg"
+      }
     }
   ]
 }
