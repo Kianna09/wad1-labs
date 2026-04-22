@@ -1,61 +1,49 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
+      "id": "0bf69560-b627-47a7-a42f-609c564c9002",
+      "title": "Homer's new playlist",
+      "date": "2026-04-15T14:46:00.917Z",
       "rating": 3,
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "06",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
-        }
-      ]
+      "songs": []
     },
     {
-      "id": "02",
-      "title": "Beethoven Concertos",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "9518c5c5-4849-46e6-bb67-c35507bfb8e1",
+      "title": "Homer's Playlist",
+      "rating": 3,
+      "songs": [],
+      "date": "2026-04-15T14:51:46.942Z"
+    },
+    {
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "a360d321-ed06-4e20-ac4c-69abbdda674f",
+      "title": "Marge's Playlist",
       "rating": 4,
+      "songs": [],
+      "date": "2026-04-15T14:52:05.680Z"
+    },
+    {
+      "userid": "4b1c7b91-6114-4407-af01-4d8bd331149b",
+      "id": "0ba2efb1-4dc2-4b44-9f16-5d2b85800320",
+      "title": "Lisa's Playlist",
+      "rating": 5,
+      "songs": [],
+      "date": "2026-04-15T14:53:09.614Z"
+    },
+    {
+      "userid": "4896bcd2-2d66-4e08-8aab-63a0ae683c4b",
+      "id": "1642c5a6-3ebb-473d-997b-529847e3ca3a",
+      "title": "Lisa's Playlist",
+      "rating": 5,
       "songs": [
         {
-          "id": "07",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
+          "id": "bafd2703-ba5f-4b74-a4a0-0eab1059a4ab",
+          "title": "Lisa",
+          "artist": "Lisa"
         }
-      ]
-    },
-    {
-      "id": "03",
-      "title": "Beethoven Unfinished Symphonies",
-      "rating": 1,
-      "songs": []
-    },
-    {
-      "id": "04ac1b58-f9f5-4380-8f64-01aa06ecd6a5",
-      "title": "Beethoven Symphonies",
-      "date": "2026-03-25T16:08:05.498Z",
-      "rating": 3,
-      "songs": []
+      ],
+      "date": "2026-04-15T15:50:22.338Z"
     }
   ]
 }
